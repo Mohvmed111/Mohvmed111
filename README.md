@@ -1,5 +1,3 @@
-<img src="https://raw.githubusercontent.com/Mohvmed111/Mohvmed111/output/snake.svg" alt="Snake animation" />
-
 ###
 <br>
 <p align="center">
@@ -98,9 +96,15 @@
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohvmed111&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohvmed111&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=ELSEFI&show_icons=true&theme=gruvbox&hide_border=true&count_private=true" />
+  <img height="200" src="https://github-readme-streak-stats.herokuapp.com?user=ELSEFI&theme=gruvbox&hide_border=true" />
 </div>
+
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ELSEFI&layout=compact&theme=gruvbox&hide_border=true&langs_count=8" />
+  <img height="220" src="https://leetcard.jacoblin.cool/ELSEFI?theme=dark&font=Fira+Code&ext=activity" />
+</div>
+
 
 ###
 
