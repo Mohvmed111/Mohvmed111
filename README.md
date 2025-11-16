@@ -33,12 +33,11 @@
 
 ## 🌐 Connect With Me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/mohamed-elsayed-496142385"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
-  <a href="mailto:mohamedelsefi11@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" /></a>
-  <a href="https://www.instagram.com/muh._.mmedd"><img src="https://skillicons.dev/icons?i=instagram" height="40" /></a>
-</p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/feed/"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
+  <a href="mailto:mohvmedzaki1@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" /></a>
+</p>
 ---
 
 ## 💻 Tech Stack
