@@ -1,3 +1,6 @@
+<img src="https://raw.githubusercontent.com/Mohvmed111/Mohvmed111/output/snake.svg" alt="Snake animation" />
+
+###
 <br>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,5,12,20&height=200&section=header&text=Mohamed%20Ahmed&fontSize=60&fontAlignY=35&desc=Full-Stack%20Developer%20|%20Backend%20Engineer&descSize=20&descAlignY=55&animation=fadeIn" />
